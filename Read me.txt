@@ -1,0 +1,8 @@
+Create database name "pms".
+Import the database inside the database folder.
+Make sure you are connected to the internet.
+
+Aunthentication is disabled but you can enable it by changing "isLoggedIn" to true
+available users
+1. email: noel@gmail.com password: 123     role: customer
+2. email: kaunda@gmail.com password: 123   role: admin
